@@ -105,22 +105,22 @@ header {
   align-items: center;
   font-size: 40px;
 }
-h2{
+.subtitulos{
     font-family: Merriweather Sans, sans-serif;
     color: #0C1E33;
     font-size: 30;
 }
-p {
+.paragrafo{
     font-family: Merriweather Sans, sans-serif;
     color: #0C1E33;
     font-size: 18px;
 }
-h3{
+.L3{
     font-family: Inknut Antiqua;
     color: white;
     font-size: 20px;
 }
-h5{
+.L5{
 font-family: Inknut Antiqua;
     color: white;
     font-size: 13px;
@@ -223,22 +223,22 @@ i{
   font-size: 60px;
   padding: 10px;
 }
-h2{
+.subtitulos{
     font-family: Merriweather Sans, sans-serif;
     color: #0C1E33;
     font-size: 30;
 }
-p {
+.paragrafo {
     font-family: Merriweather Sans, sans-serif;
     color: #0C1E33;
     font-size: 18px;
 }
-h3{
+.L3{
     font-family: Inknut Antiqua;
     color: white;
     font-size: 20px;
 }
-h5{
+.L5{
 font-family: Inknut Antiqua;
     color: white;
     font-size: 13px;
