@@ -130,6 +130,10 @@ i{
   font-size: 30px;
   color: white;
 }
+.Logoatlas{
+  width:60px;
+  height:110px;
+}
 }
 /*Desktop*/
 @media (min-width: 768px) {
@@ -242,8 +246,8 @@ i{
   color: white;
 }
 .Logoatlas{
-  width:150px;
-  height:200px;
+  width:100px;
+  height:150px;
 }
 }
 /*Footer*/
