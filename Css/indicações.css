@@ -2,7 +2,7 @@
 @import url('https://fonts.google.com/specimen/Merriweather+Sans');
 @import url('https://fonts.google.com/specimen/Inknut+Antiqua?query=Inknut+Antiqua');
 
-body{ 
+body{
     background-color: #F3EDDF;
 }
 header {
@@ -108,6 +108,10 @@ i{
   align-items: center;
   text-align: justify;
 }
+.Logoatlas{
+  width:60px;
+  height:110px;
+}
 }
 /*Desktop*/
 @media (min-width: 768px) {
@@ -200,6 +204,10 @@ i{
 .primeiralinha,.segundalinha,.terceiralinha{
     display:flex;
     justify-content: space-between;
+}
+.Logoatlas{
+  width:100px;
+  height:150px;
 }
 }
 /*Footer*/
