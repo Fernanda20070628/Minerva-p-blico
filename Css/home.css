@@ -142,15 +142,9 @@ i{
     justify-content: center; 
     align-items: center; 
     width: 100%;
-    height:auto;
+    height: 350px;
 }
-.header-content {
-  display: flex;
-  justify-content: center; 
-  align-items: center;
-  width: 100%;
-  position: relative;
-}
+ 
 .logo {
   display: block;
   max-width: 50%; 
