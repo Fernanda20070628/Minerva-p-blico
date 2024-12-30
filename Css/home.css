@@ -42,8 +42,8 @@ header {
 }
 .logo {
   display: block;
-  max-width: 33%; 
-  margin-top: 12px; 
+  max-width: 25%; 
+  margin-top: 70px; 
 }
 .uk-navbar-dropdown{
     background-color:#0C1E33 !important;
