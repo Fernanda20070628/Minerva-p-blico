@@ -49,10 +49,12 @@ padding-right: 20px;
 }
 .uk-navbar-dropdown{
     background-color:#0C1E33 !important;
-    padding-left:70px;
+    padding-left:35px;
     padding-top:0px;
     padding-bottom:5px;
-    
+}
+.uk-navbar-dropdown-nav{
+    padding-left:inherit;
 }
 .uk-active a {
     color: white !important;
