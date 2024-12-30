@@ -42,8 +42,8 @@ header {
 }
 .logo {
   display: block;
-  max-width: 25%; 
-  margin-top: 80px; 
+  max-width: 33%; 
+  margin-top: 12px; 
 }
 .uk-navbar-dropdown{
     background-color:#0C1E33 !important;
@@ -115,12 +115,12 @@ header {
     color: #0C1E33;
     font-size: 18px;
 }
-.L3{
+.tres{
     font-family: Inknut Antiqua;
     color: white;
     font-size: 20px;
 }
-.L5{
+.cinco{
 font-family: Inknut Antiqua;
     color: white;
     font-size: 13px;
@@ -153,11 +153,12 @@ i{
   display: flex;
   justify-content: center; 
   align-items: center;
+  
 } 
 .logo {
   display: block;
-  max-width: 30%; 
-  margin-top: 10px; 
+  max-width: 25%; 
+  margin-top: 20px; 
 }
 .atual{
   font-family:"Inknut Antiqua",serif !important;
@@ -235,12 +236,12 @@ i{
     color: #0C1E33;
     font-size: 18px;
 }
-.L3{
+.tres{
     font-family: Inknut Antiqua;
     color: white;
     font-size: 20px;
 }
-.L5{
+.cinco{
 font-family: Inknut Antiqua;
     color: white;
     font-size: 13px;
