@@ -178,6 +178,7 @@ i{
 }
 .primeiralinha,.segundalinha{
     display:flex;
+    justify-content:space-around;
 }
 .principeCruel,.EueEsseMeuCoracao,.habitosAtomicos,.GarotosdoCemiterio{
   padding: 25px;
