@@ -125,7 +125,11 @@ i{
     width: auto;
     height:auto;
 }
- 
+ .header-content {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+ }
 .logo {
   display: block;
   max-width: 50%; 
