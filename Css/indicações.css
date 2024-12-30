@@ -180,6 +180,8 @@ i{
     font-family: Merriweather Sans, sans-serif;
     color: #0C1E33;
     font-size: 30;
+    align-items: center;
+    text-align: center;
 }
 .paragrafo{
     font-family: Merriweather Sans, sans-serif;
