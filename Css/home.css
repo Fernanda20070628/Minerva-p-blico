@@ -120,13 +120,21 @@ padding-right: 20px;
   justify-content: space-around;
   max-width: 800px;
  }
-.record,.arqueiro{
-  max-width:70;
+.record{
+  max-width:70px;
   max-height:auto;
 }
-.saraiva,.seguinte{
-  max-width:auto;
-  max-height:70;
+.arqueiro{
+  max-width:100px;
+  max-height:auto;
+}
+.saraiva{
+  max-width:90px;
+  max-height:auto;
+}
+.seguinte{
+  max-width:150px;
+  max-height:auto;
 }
 .titulos{
   font-family: "Cinzel Decorative", serif;
@@ -245,13 +253,21 @@ i{
   justify-content: space-around;
   max-width: 100%;
  }
-.record,.arqueiro{
-  max-width:50px;
+.record{
+  max-width:80px;
   max-height:auto;
 }
-.saraiva,.seguinte{
-  max-width:auto;
-  max-height:102px;
+.arqueiro{
+  max-width:150px;
+  max-height:auto;
+}
+.saraiva{
+  max-width:100px;
+  max-height:auto;
+}
+.seguinte{
+  max-width:200px;
+  max-height:auto;
 }
 .titulos{
   font-family: "Cinzel Decorative", serif;
