@@ -120,23 +120,14 @@ padding-right: 20px;
   justify-content: space-around;
   max-width: 800px;
  }
-.record
-{
-  max-width:50px;
-  max-height:67px;
+.record,.arqueiro{
+  max-width:70;
+  max-height:auto;
 }
-.arqueiro{
-    max-width:102px;
-    max-height:105px;
- }
-.saraiva{
-  max-width:92px;
-  max-height:60px;
- }
-.seguinte{
-  max-width:171px;
-  max-height:46px ;
- }
+.saraiva,.seguinte{
+  max-width:auto;
+  max-height:70;
+}
 .titulos{
   font-family: "Cinzel Decorative", serif;
   color:#0C1E33;
@@ -254,22 +245,14 @@ i{
   justify-content: space-around;
   max-width: 100%;
  }
- .record{
-  max-width: 96px;
-  max-height:130px;
+.record,.arqueiro{
+  max-width:50px;
+  max-height:auto;
 }
-.arqueiro{
-    max-width:145px;
-    max-height:140px;
- }
-.saraiva{
-  max-width:133px;
-  max-height:145px;
- }
-.seguinte{
-  max-width:266px;
-  max-height:63px ;
- }
+.saraiva,.seguinte{
+  max-width:auto;
+  max-height:102px;
+}
 .titulos{
   font-family: "Cinzel Decorative", serif;
   color:#0C1E33;
