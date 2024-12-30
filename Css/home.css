@@ -152,9 +152,6 @@ i{
   display: flex;
   justify-content: center; 
   align-items: center;
-  width: 100%;
-  position: relative;
-  height: auto; 
 } 
 .logo {
   display: block;
