@@ -139,6 +139,7 @@ i{
 @media (min-width: 768px) {
 .uk-navbar-container-mobile{
   visibility: hidden;
+  width: 0px;
 }
 .cabecalho{
     display: flex;
