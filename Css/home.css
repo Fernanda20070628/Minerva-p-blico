@@ -53,6 +53,9 @@ padding-right: 20px;
     padding-top:0px;
     padding-bottom:5px;
 }
+.uk-navbar-dropdown>:last-child{
+  padding-left: 35px;
+}
 .uk-navbar-dropdown-nav{
     padding-left:inherit;
 }
