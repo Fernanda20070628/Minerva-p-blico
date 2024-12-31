@@ -400,8 +400,8 @@ button {
   justify-content: space-around;
 }
 .ante {
-    left: 10px;
-    }
+    left: -50px; 
+}
 .prox {
-    right: 10px;
+    right: -50px;
 }
