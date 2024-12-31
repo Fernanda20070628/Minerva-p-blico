@@ -371,7 +371,8 @@ i{
 .imagens {
   display: flex;
   transition: transform 0.5s ease-in-out; 
-  
+  margin-left:12px;
+  margin-right:12px;
 }
 
 .imagens img {
