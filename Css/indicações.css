@@ -87,7 +87,11 @@ height: auto;
 .uk-navbar-container-desktop{
   visibility: hidden;
 }
-
+.comoFunciona{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .titulos{
   font-family: "Cinzel Decorative", serif;
   color:#0C1E33;
@@ -185,7 +189,11 @@ i{
     display: flex;
     justify-content: space-between;
 }
-
+.comoFunciona{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .titulos{
   font-family: "Cinzel Decorative", serif;
   color:#0C1E33;
