@@ -4,6 +4,9 @@
 
 body{
     background-color: #F3EDDF;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
 }
 header {
     background-color: #0C1E33; 
@@ -52,9 +55,8 @@ padding-right: 20px;
   height: auto; 
 }
 .uk-nav, .uk-nav ul {
-    margin: 0;
-   
-    list-style: none;
+  margin: 0;
+  list-style: none;
 }
 .uk-navbar-container-mobile {
      position:absolute!important; 
@@ -63,7 +65,7 @@ padding-right: 20px;
      width: 70% !important;
      background-color:#0C1E33 !important;
      padding-bottom: 20px !important;
-     max-width:170px;
+     max-width:180px;
 }
 .logo {
   display: block;
@@ -122,19 +124,19 @@ padding-right: 20px;
   align-items: center;
  }
 .record{
-  max-width:70px;
+  max-width:65px;
   max-height:auto;
 }
 .arqueiro{
-  max-width:100px;
+  max-width:95px;
   max-height:auto;
 }
 .saraiva{
-  max-width:90px;
+  max-width:85px;
   max-height:auto;
 }
 .seguinte{
-  max-width:150px;
+  max-width:140px;
   max-height:auto;
 }
 .titulos{
@@ -207,7 +209,7 @@ i{
   font-size: 22px !important;
 }
 .outras{
-   font-family:"Inknut Antiqua",serif !important;
+  font-family:"Inknut Antiqua",serif !important;
   text-transform: none !important;
   font-size: 22px !important;
 }
@@ -245,7 +247,7 @@ i{
   justify-content: center;
   padding: 10px;
  }
-  .patrocinio{
+.patrocinio{
   align-items: center;
  }
  .patrocinadores{
@@ -256,19 +258,19 @@ i{
   align-items: center;
  }
 .record{
-  max-width:80px;
+  max-width:75px;
   max-height:auto;
 }
 .arqueiro{
-  max-width:120px;
+  max-width:115px;
   max-height:auto;
 }
 .saraiva{
-  max-width:100px;
+  max-width:95px;
   max-height:auto;
 }
 .seguinte{
-  max-width:200px;
+  max-width:180px;
   max-height:auto;
 }
 .titulos{
@@ -321,7 +323,7 @@ i{
   color: white; 
   text-decoration: none; 
   display:block; 
-  transition: transform 0.3s ease; 
+  transition: transform 0.3s ease;
 }
 .minerva a:hover {
   transform: scale(1.1);
@@ -373,6 +375,7 @@ i{
   transition: transform 0.5s ease-in-out; 
   margin-left:12px;
   margin-right:12px;
+  padding:10px;
 }
 
 .imagens img {
