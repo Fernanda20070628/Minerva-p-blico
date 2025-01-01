@@ -383,6 +383,9 @@ i{
   padding-left: 35px;
   padding-right: 35px;
 }
+img.clubedeLeitura{
+  margin-left: 55px;
+}
 button {
   max-height: 60px;
   position: relative;
