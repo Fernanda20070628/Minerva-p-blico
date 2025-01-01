@@ -392,7 +392,9 @@ i{
 .feiraInfantil{
 margin-left: 50px;
 }
-
+.feiraLiteraria{
+margin-left: 2px;
+}
 button {
   max-height: 60px;
   position: relative;
